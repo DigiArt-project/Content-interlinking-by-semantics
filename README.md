@@ -40,6 +40,6 @@ The official documentation of PROPheT is [here](http://mklab.iti.gr/prophet/).
 
 Credits
 -------------
-PROPheT was created by <a href="http://mklab.iti.gr/" target="_blank">MKLab group</a> under the scope of <a href="http://pericles-project.eu/" target="_blank">PERICLES</a> FP7 Research Project.
+PROPheT was created by <a href="http://mklab.iti.gr/" target="_blank">MKLab group</a> under the scope of <a href="digiart-projec.eu" target="_blank">DigiArt</a> H2020 and <a href="http://pericles-project.eu/" target="_blank">PERICLES</a> FP7 Research Projects.
 
 ![prophet logo](http://mklab.iti.gr/prophet/_static/logo.png)  ![mklab logo](http://mklab.iti.gr/prophet/_static/mklab_logo.png)  ![digiart logo](https://avatars2.githubusercontent.com/u/27995943?s=200&v=4)
